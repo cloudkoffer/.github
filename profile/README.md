@@ -1,3 +1,3 @@
 # Cloudkoffer
 
-<https://cloudkoffer.github.io>
+<https://cloudkoffer.dev>
